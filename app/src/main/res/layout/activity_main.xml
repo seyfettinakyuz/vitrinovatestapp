@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="discover"
+            type="com.seyfettin.vitrinovaapplication.model.MainDiscover" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ProgressBar
+            android:id="@+id/loading_progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:indeterminateTint="@color/orange_700"
+            android:indeterminateTintMode="src_in"
+            android:visibility="visible" />
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipe_refresh"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.core.widget.NestedScrollView
+                android:id="@+id/scrool_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusableInTouchMode="true">
+
+                    <androidx.cardview.widget.CardView
+                        android:id="@+id/header"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="8dp">
+
+                        <androidx.appcompat.widget.Toolbar
+                            android:id="@+id/toolbar"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:navigationIcon="@drawable/ic_menu">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+
+                                <SearchView
+                                    android:id="@+id/search_bar"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_toStartOf="@+id/mic"
+                                    android:iconifiedByDefault="false"
+                                    android:queryBackground="@color/white"
+                                    android:queryHint="Ürün veya vitrin ara"
+                                    android:searchIcon="@null" />
+
+                                <ImageButton
+                                    android:id="@+id/mic"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_centerVertical="true"
+                                    android:background="@android:color/transparent"
+                                    android:padding="10dp"
+                                    android:src="@drawable/ic_mic" />
+                            </RelativeLayout>
+
+
+                        </androidx.appcompat.widget.Toolbar>
+                    </androidx.cardview.widget.CardView>
+
+
+                    <androidx.viewpager.widget.ViewPager
+                        android:id="@+id/features_viewpager"
+                        android:layout_width="match_parent"
+                        android:layout_height="190dp"
+                        android:layout_below="@+id/header"
+                        app:resource="@{discover.features}" />
+
+                    <com.google.android.material.tabs.TabLayout
+                        android:id="@+id/features_tab"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/features_viewpager"
+                        android:layout_gravity="bottom"
+                        android:background="@android:color/transparent"
+                        app:tabBackground="@drawable/tab_selector"
+                        app:tabGravity="center"
+                        app:tabIndicatorHeight="0dp" />
+
+                    <RelativeLayout
+                        android:id="@+id/new_product_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/features_viewpager"
+                        android:background="@color/white"
+                        android:paddingStart="5dp"
+                        android:paddingTop="10dp"
+                        android:paddingEnd="0dp"
+                        android:paddingBottom="10dp">
+
+                        <RelativeLayout
+                            android:id="@+id/new_product_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@{discover.newProductsTitle}"
+                                android:textColor="@color/black"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/new_product_all"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@string/all"
+                                android:textColor="@color/black"
+                                app:drawableEndCompat="@drawable/ic_chevron_right" />
+                        </RelativeLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/new_product_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/new_product_title"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            app:resource="@{discover.newProducts}"
+                            tools:listitem="@layout/item_product" />
+
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+
+                        android:id="@+id/category_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/new_product_container"
+                        android:background="@color/light_gray"
+                        android:paddingStart="5dp"
+                        android:paddingTop="10dp"
+                        android:paddingEnd="0dp"
+                        android:paddingBottom="10dp">
+
+                        <RelativeLayout
+                            android:id="@+id/category_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@{discover.categoriesTitle}"
+                                android:textColor="@color/black"
+                                android:textSize="14sp" />
+                        </RelativeLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/category_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/category_title"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            app:resource="@{discover.categories}"
+                            tools:listitem="@layout/item_category" />
+
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/collection_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/category_container"
+                        android:background="@color/white"
+                        android:paddingStart="5dp"
+                        android:paddingTop="10dp"
+                        android:paddingEnd="0dp"
+                        android:paddingBottom="10dp">
+
+                        <RelativeLayout
+                            android:id="@+id/collection_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@{discover.collectionsTitle}"
+                                android:textColor="@color/black"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/collection_all"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@string/all"
+                                android:textColor="@color/black"
+                                app:drawableEndCompat="@drawable/ic_chevron_right" />
+
+                        </RelativeLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/collection_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/collection_title"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            app:resource="@{discover.collections}"
+                            tools:listitem="@layout/item_collection" />
+
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/editor_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/collection_container"
+                        android:background="@color/white"
+                        android:paddingBottom="10dp">
+
+                        <ImageView
+                            android:id="@+id/editor_background"
+                            android:layout_width="match_parent"
+                            android:layout_height="325dp"
+                            android:scaleType="centerCrop" />
+
+                        <RelativeLayout
+                            android:id="@+id/editor_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@{discover.editorShopsTitle}"
+                                android:textColor="@color/white"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/editor_all"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@string/all"
+                                android:textColor="@color/white"
+                                android:textSize="14sp"
+                                app:drawableEndCompat="@drawable/ic_chevron_right" />
+
+                        </RelativeLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/editor_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/editor_title"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginBottom="10dp"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            app:resource="@{discover.editorShops}"
+                            tools:listitem="@layout/item_editor" />
+
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/new_shop_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/editor_container"
+                        android:background="@color/white"
+                        android:paddingStart="5dp"
+                        android:paddingTop="10dp"
+                        android:paddingEnd="0dp">
+
+                        <RelativeLayout
+                            android:id="@+id/new_shop_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="5dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@{discover.newShopsTitle}"
+                                android:textColor="@color/black"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/new_shop_all"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:gravity="center"
+                                android:text="@string/all"
+                                android:textColor="@color/black"
+                                app:drawableEndCompat="@drawable/ic_chevron_right" />
+
+                        </RelativeLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/new_shop_list"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/new_shop_title"
+                            android:orientation="horizontal"
+                            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                            app:resource="@{discover.newShops}"
+                            tools:listitem="@layout/item_new_shop" />
+
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+            </androidx.core.widget.NestedScrollView>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </RelativeLayout>
+</layout>

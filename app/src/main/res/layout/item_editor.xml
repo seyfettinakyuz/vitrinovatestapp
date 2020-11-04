@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="editor"
+            type="com.seyfettin.vitrinovaapplication.data.remote.model.EditorShop" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@color/white"
+            app:cardCornerRadius="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:gravity="center"
+                    android:lines="1"
+                    android:paddingStart="8dp"
+                    android:paddingEnd="0dp"
+                    android:text="@{editor.name}"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/definition"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/name"
+                    android:layout_marginTop="15dp"
+                    android:gravity="center"
+                    android:lines="1"
+                    android:paddingStart="8dp"
+                    android:paddingEnd="0dp"
+                    android:text="@{editor.definition}"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp" />
+
+                <LinearLayout
+                    android:id="@+id/images_container"
+                    android:layout_width="260dp"
+                    android:layout_height="80dp"
+                    android:layout_below="@+id/definition"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="15dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginEnd="5dp"
+                        app:cardCornerRadius="5dp">
+
+                        <ImageView
+                            android:id="@+id/image1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            app:imageUrl="@{editor.thumbImage1}" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginEnd="5dp"
+                        app:cardCornerRadius="5dp">
+
+                        <ImageView
+                            android:id="@+id/image2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            app:imageUrl="@{editor.thumbImage2}" />
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="5dp"
+                        app:cardCornerRadius="5dp">
+
+                        <ImageView
+                            android:id="@+id/image3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            app:imageUrl="@{editor.thumbImage3}" />
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:layout_width="260dp"
+                    android:layout_height="36dp"
+                    android:layout_below="@+id/images_container"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/button_background"
+                    android:text="VİTRİNE GİT"
+                    android:textColor="@android:color/darker_gray" />
+
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:imageUrl="@{editor.logo.url}" />
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</layout>

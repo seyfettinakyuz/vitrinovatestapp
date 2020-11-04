@@ -1,0 +1,2495 @@
+[
+  {
+    "type": "featured",
+    "title": "Featured Olanlar",
+    "featured": [
+      {
+        "id": 111702,
+        "type": "shop",
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/jewelryafile-5da84223-0c80-4f26-8875-3903e91c141a.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/jewelryafile-27bc984d-08ff-43ba-9b6e-0b267ddb7c56.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/jewelryafile-19eff39a-e6f9-4e56-9bf1-58ee0fd7920b.jpg"
+          }
+        },
+        "title": "Jewelryafile",
+        "sub_title": "Vitrin"
+      },
+      {
+        "id": 111175,
+        "type": "shop",
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fudela-store-d111a2cb-a21e-4d16-b629-b235bfeac956.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fudela-store-2d1fe788-2cbd-4070-bc47-b215490da2df.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fudela-store-434a5588-b7c0-4add-8fd8-6b75a2f264fd.jpg"
+          }
+        },
+        "title": "Fudela Store",
+        "sub_title": "Vitrin"
+      },
+      {
+        "id": 111139,
+        "type": "shop",
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oxidepo-metal-tablo-92c5a0a2-1bb1-4788-863c-766954676b57.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oxidepo-metal-tablo-6da37293-78f8-4a27-be8e-40f498b72177.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oxidepo-metal-tablo-bcb84979-56d8-4c33-839d-3c20f5a04d4d.jpg"
+          }
+        },
+        "title": "oxidepo metal tablo",
+        "sub_title": "Vitrin"
+      }
+    ]
+  },
+  {
+    "type": "new_products",
+    "title": "En Yeni Ürünler",
+    "products": [
+      {
+        "id": 119471,
+        "code": null,
+        "title": "Göz küpe",
+        "slug": "goz-kupe",
+        "definition": "İncili taşlı küpe",
+        "old_price": 34,
+        "price": 28,
+        "stock": 6,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 1,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 3,
+        "difference": "9 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 1,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119471/goz-kupe",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 111123,
+          "name": "Menessa",
+          "slug": "menessa",
+          "definition": "Türkiye'nin en moda takı ve aksesuar markası",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2017-07-29 15:50:25",
+          "shop_payment_id": 7,
+          "product_count": 24,
+          "shop_rate": 5,
+          "comment_count": 1,
+          "follower_count": 93,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-fdaca9c7-c069-4c38-aaaf-2e7fb3b9dce4.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-2eeb8e99-a1ce-4ad8-bfaa-71610ce92e30.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-678a1853-eb29-4139-b2cf-e3d61d38652d.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/menessa",
+          "logo": {
+            "width": 512,
+            "height": 512,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-56b65e6b-8265-49f6-8db2-329bbd294cf0.jpg",
+            "medium": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-e1bb71fc-48fd-4d22-932c-47598fbffd8e.jpg"
+            },
+            "thumbnail": {
+              "width": 128,
+              "height": 128,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-7d554c18-28c1-493d-bea1-15846fe52bea.jpg"
+            }
+          }
+        },
+        "category": {
+          "id": 3,
+          "name": "Takı & Aksesuar",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-4e5424ed-bba2-465c-9c6d-992ae9ea1055.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-060c416d-7915-4e67-ae0b-3c25140da790.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-f021e61d-07ed-4bc3-852a-2af2f87bd8dd.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119473,
+        "code": null,
+        "title": "Gerçek deri Mini zincir askılı çanta",
+        "slug": "gercek-deri-mini-zincir-askili-canta",
+        "definition": "Çep telefonu ve kartlık sığabilecek ölçüde deri bilek askısı ve zincir çapraz/kol askısı İle mini tasarım gerçek deri çanta",
+        "old_price": null,
+        "price": 250,
+        "stock": 2,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 5,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 5,
+        "difference": "8 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119473/gercek-deri-mini-zincir-askili-canta",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 111821,
+          "name": "Deryle Design",
+          "slug": "deryle-design",
+          "definition": "Deri aksesuar, çanta ve tasarımlar",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2018-02-10 23:30:45",
+          "shop_payment_id": 370,
+          "product_count": 4,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 9,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-87916694-dfda-4402-82d7-313d1e8fe50d.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-f7741158-2413-4abb-ae2c-d7bfd4ae1786.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-793f995f-82fb-49d7-b9d1-02d7aa9bcf0d.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/deryle-design",
+          "logo": {
+            "width": 512,
+            "height": 512,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-6c8a4960-e82a-4b02-93ed-4b74834adc94.jpg",
+            "medium": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-f31d7020-27a6-4cff-a59c-3d729f39c4db.jpg"
+            },
+            "thumbnail": {
+              "width": 128,
+              "height": 128,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-bf2d1901-de66-4d50-bc45-fdc5b6a7f47c.jpg"
+            }
+          }
+        },
+        "category": {
+          "id": 5,
+          "name": "Çanta",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-677a34da-22d7-408c-bfba-b64d0735f697.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-ec47b87b-0bfe-4b35-b6d3-dede52ece667.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-e8efba63-5052-4749-9ef5-c45bc251c976.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119410,
+        "code": null,
+        "title": "Dekoratif  ahşap avize",
+        "slug": "dekoratif-ahsap-avize",
+        "definition": "İsteğe göre avize ya da masa lambası olarak sipariş verebilirsiniz",
+        "old_price": 230,
+        "price": 190,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 28,
+        "difference": "1 yıl önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119410/dekoratif-ahsap-avize",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 28,
+          "name": "Aydınlatma",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-d2a5a489-d161-4d1a-aa2d-bda9013faa4d.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-c2e84211-5a46-40f6-9f60-b5fd8e09d7c9.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-59c92b4d-13b1-4d61-b1bb-55e95788f1bf.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-3984933a-fa47-4d20-a07e-9075acba4491.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-7b5378ba-4a69-4be6-8432-c25e401bb1a0.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-a80755f2-c9c3-415d-9819-7730310bee52.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-6bda41ce-aaf1-43fb-88db-97b75ab65190.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-c1ce57d2-7902-4c7e-b0de-6faca3e2abf8.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-d9c78e17-7a14-4e90-852f-93f23574af60.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119411,
+        "code": null,
+        "title": "Sonsuz aşk takı kutusu",
+        "slug": "sonsuz-ask-taki-kutusu",
+        "definition": "İç derinliği 0.5 cm dir. \nSonsuz aşk deseni kabartmadır.",
+        "old_price": 55,
+        "price": 48,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 35,
+        "difference": "1 yıl önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119411/sonsuz-ask-taki-kutusu",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 35,
+          "name": "Diğer",
+          "parent_id": null,
+          "order": 0,
+          "parent_category": null
+        },
+        "images": [
+          {
+            "width": 1024,
+            "height": 768,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-834d96d3-7321-4d34-aa8c-2d1c7e5e964b.jpg",
+            "medium": {
+              "width": 512,
+              "height": 384,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-e6ff93f4-282a-42e2-a486-52f37091480a.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 192,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-a0c0ee94-10db-4cee-b45d-271691a6ab1c.jpg"
+            }
+          },
+          {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-258552ae-f846-464c-a080-eea6ac295f80.jpg",
+            "medium": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-aed1b3ac-ffa6-4abb-815f-e86841f9218a.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-e814fa19-3b5e-47fd-bce1-7d2b399d69ed.jpg"
+            }
+          },
+          {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-4114a075-e2dc-43b3-a1a7-d573ebc26425.jpg",
+            "medium": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-5abd15e7-22c2-48cc-85d0-ea2944876ff8.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-7de2deaa-803c-492b-9576-bd6c0f45f3ce.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119412,
+        "code": null,
+        "title": "Masa üstü gece lambası",
+        "slug": "masa-ustu-gece-lambasi",
+        "definition": "Keten jüt bezi ve ahşaptan yapılma el yapımı gece lambasıdır. \nİsterseniz duvara asılacak şekilde de tasarlayanilirim.",
+        "old_price": 210,
+        "price": 175,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 28,
+        "difference": "1 yıl önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119412/masa-ustu-gece-lambasi",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 28,
+          "name": "Aydınlatma",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d9fcd648-a887-47a7-b439-001f4fa7e46c.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-05ac26e0-4a72-407f-a54a-f8295be4a242.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-2ed84880-7387-494d-9e24-99dbd4e78e2e.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-e7176f81-3ba6-4bb9-bfb8-7759459f086d.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-068c1e83-02b8-4bc1-9418-b4a864a48fc2.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-1505ff47-6c09-4fed-bddf-73971a68e183.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d433fc88-df60-46a8-b99b-4d49b46f3e8e.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d4ecb286-f6fc-41bc-94bb-32694c951d68.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-8c0a0bad-64ba-4ada-9c1f-a1f96ae5390a.jpg"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "categories",
+    "title": "Kategoriler",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Kadın",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-4337b90a-c39b-4efb-9f6d-9cb05e9ace6b.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-16b0f324-0308-4ec9-abfc-d7af8705b9b4.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-5f54c999-9631-4ca6-9405-03aea1798e98.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-cc96d14c-37d4-4ac9-8a57-c83b97cb018e.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-9440ff82-1e3e-44ab-9cc5-3b820b28ea2b.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/kadin-65220a0d-93f0-4ad8-ad0a-5fc9ca96f604.jpg"
+          }
+        },
+        "children": [
+          {
+            "id": 2,
+            "name": "Giyim",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-f7e273b3-76c9-4265-983f-0488fbe8f112.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-e6837f90-c4d7-4a87-973f-eac0b9cb692d.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-a2538278-1c06-47ab-981a-e9a9bf9f19c2.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-6270c860-657a-4c3c-aee6-371b43d2d723.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-ec132e60-9d70-4944-9738-eef25af68a26.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-e6fe6634-d3da-494b-b5a4-cf4b6b30ca0e.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 3,
+            "name": "Takı & Aksesuar",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-2a24cf28-6d55-4090-a769-43fd5bbffaeb.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-56168d09-d4b7-4f79-9f6d-d00ca0d23dbb.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-957cf744-3d4e-49f2-839d-fa08fec78773.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-2ce5ff57-a8ed-4899-93af-e46f039a7a46.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-f0aa1b66-f2e8-4e48-ab6c-64159023da03.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/taki-aksesuar-1afcd555-5c9f-4ab4-b9dc-8db82d3ce1ef.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 4,
+            "name": "Ayakkabı",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-1b7671e2-722c-4fc7-9579-2e1032a067d6.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-72cb8b36-41a4-4477-bfd2-2346709cc311.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-0034f610-1883-48e8-ad0a-af84473d0fbc.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-b059aa51-cb2f-48ae-8b84-bf969d6389cf.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-3cd9135b-d580-4b86-9e7c-b282411b8d12.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-eab9a7b6-3618-4619-ae59-3df765e5a578.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 5,
+            "name": "Çanta",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-66a15386-cd6c-4973-9558-02aa27c1c602.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-2ffcbff3-d42e-4063-a4b4-6631befba596.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-dafe4925-bca9-48c1-b4f2-f16e888ad3e7.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-66c9fe09-b9c0-4df7-9af5-131e507fce6f.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-81326bc8-8096-43e5-a5a1-b641d9399316.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-9dd073bd-439a-473c-9e30-50a57cd14dc5.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 6,
+            "name": "Bakım & Güzellik",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-adeb4ee8-b211-4828-94c0-05465b92207c.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-6bf1276b-403b-4bbd-b747-3454868d8a4c.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-5b218be2-52d7-402b-b6a5-c5d60c507eca.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-8c56d99c-d6a9-4f09-80fb-1a381fcf7d9e.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-ad9389e7-76c7-4b3c-a1c7-d81257109742.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-guzellik-fabf017a-ca6d-4b17-8b2b-a6e95298259c.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 7,
+            "name": "Spor",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-a2461cd7-5205-484a-907d-9293bcda3909.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-ab6308df-337b-432f-a7a0-1eaeb2ee54cb.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-7ae5c5d6-b0d6-428e-b91e-a4ee64e88b51.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-44e88d01-0094-4960-9b71-1fbcc6a9e865.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-b33c9e98-b4d3-48a8-88e7-4b7cd3d21423.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-7140b1c0-1611-46a5-a97c-fb151a70d51e.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 8,
+            "name": "Diğer",
+            "parent_id": 1,
+            "order": 0,
+            "parent_category": {
+              "id": 1,
+              "name": "Kadın",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-25651df5-8c1c-42c3-9929-35f4d9853c1c.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-b0c2be3d-605f-4605-8b8d-4746c86dae0e.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-9a303cb3-103d-47a6-b206-71a657671051.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-cec222d3-9a4d-4b65-867c-d5af13e42eda.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-f4a2b17f-3676-4b49-b07a-6b5e19855109.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-4f3eac97-03be-438e-9250-696f43745d04.jpg"
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Erkek",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-580802aa-dd83-49a6-980e-b10f676658bd.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-1f205471-b2e4-48b0-8dfe-da56fabc87a4.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-3395b061-2cc1-41e5-bba1-9170c3795521.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-c36a58fd-4161-406b-a0bb-45dcdc32aa35.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-d671ad4e-5a8e-4b4a-a348-775d4cb71cdd.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/erkek-f1fba142-d634-46a8-bc8e-4bc6726671d1.jpg"
+          }
+        },
+        "children": [
+          {
+            "id": 10,
+            "name": "Giyim",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-af0326ad-c875-44a9-804e-d035bf267cf7.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-af56ed2e-732d-45c1-87f9-d4733ba5eef1.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-5bd37e5c-158e-4c42-be71-3b2bce0fd4ea.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-db036f25-34f4-4bf4-adac-c1191df4f778.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-323f632c-6451-4cd0-a952-a0f068c1a5b2.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-347e9097-9e48-4a96-89b7-4b55cf234307.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 11,
+            "name": "Aksesuar",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-75e02abd-39f6-4f18-9ee5-c0ec34e1f3e6.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-45b79ce8-4046-404e-8c72-5b9b97f832ba.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-9e730c2c-e4d5-4b18-80b2-c159d72774de.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-7d6f6518-03cd-4181-9c7f-7a8192812f4a.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-0e29ff3b-23df-4e01-809d-0a25f74e530e.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-b7afdfaa-7895-4d44-aec4-7dd109bd2ce3.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 12,
+            "name": "Ayakkabı",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-e85e90bd-8226-4618-8be8-c861b37e4c8c.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-c48216b9-ac90-4f22-9a62-001780028a3f.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-bb16bcd1-8def-445a-bd74-7368cd723db8.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-a130c090-3959-4cb2-9edc-82a3f0ca04f2.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-5e0d40c1-ec40-4de5-9b3f-ca5b89d20dca.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-b6557857-ecbe-4a4f-956d-7db4a522e93f.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 13,
+            "name": "Çanta & Cüzdan",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-33c96722-5197-4622-92a9-2b477c219892.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-2c5b5fb9-7cc3-4f0f-9d1d-193be0c0fb3d.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-d9cc665a-e393-4bec-9779-ad2f3fb2a5dd.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-83193e75-1803-42b9-bf80-f2a14dec76cf.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-610d6bce-7011-42bb-bc89-89c460e09763.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/canta-cuzdan-d0c72580-9bb5-43b3-9b91-5f95e2d1b4e5.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 14,
+            "name": "Bakım",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-3b5a6bf6-86a4-4aaa-a3a7-d6142af61c02.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-dcc54ac4-2195-4679-ad84-99133366c92b.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-9c8e1835-3921-473a-9685-4a9abd9920cf.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-52d11fa1-a6d4-4544-96a7-75a665d8486b.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-eefcfdc7-c13e-43b7-8f15-fac2e0a9de9f.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bakim-f37b66db-de1f-4f25-aab2-1fc5806f7fab.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 15,
+            "name": "Spor",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-fd24d8d4-5550-4d04-819d-d6878dcc94e2.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-764b752d-7d46-48c1-a3ce-1660e0487455.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-c9f0f7d9-a838-41a6-a7f8-e57edce1dc64.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-2c2caf03-4020-427c-8654-a97b06a56ac4.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-bfada345-d99a-4a4f-a6fb-332fc80123d1.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/spor-f756917e-1da0-4d9a-b7e0-04e263754f32.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 16,
+            "name": "Diğer",
+            "parent_id": 9,
+            "order": 0,
+            "parent_category": {
+              "id": 9,
+              "name": "Erkek",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-e6ac3d52-aa1d-47dc-b304-1cdc251e7243.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-4d223ece-c031-4b20-81df-9d305753fbe8.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-ea501689-d1fe-467a-ab6b-55e25a96fc02.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-1f3de8a4-4a75-428d-9370-d9e9e6da7500.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-ac5aa656-565a-40f6-9db5-16a332cc882c.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-945bc22d-9d62-4174-b1f8-27ba0d4893fe.jpg"
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Çocuk",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-f6e531f0-fc3b-4d81-ada4-30998921658c.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-7ec93307-8d0c-48bf-a5cd-a0948e02a248.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-076d82ef-8d93-4d12-869f-cc2bde715737.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-a540e6c7-2555-4c6d-8f15-2d1c76c29060.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-c2b8f7e1-2591-4aa9-a3aa-9c1aff1e222e.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/cocuk-dd300b37-54a1-4add-999d-30070e357edb.jpg"
+          }
+        },
+        "children": [
+          {
+            "id": 18,
+            "name": "Giyim",
+            "parent_id": 17,
+            "order": 0,
+            "parent_category": {
+              "id": 17,
+              "name": "Çocuk",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-c3f1f199-0bc4-46ae-8b0d-038b68315b30.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-0ff9b962-a7df-40fb-a38a-9c21be8fe1d8.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-a1595e6f-6ff5-47d4-97bd-07c229d35eae.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-93216a8e-ca14-4c7e-992a-2f558ef755ca.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-83f069f7-9cc1-4073-878b-a7a5e312788e.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/giyim-ea8c1ceb-41fd-4088-a462-632e6ecf6967.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 19,
+            "name": "Aksesuar",
+            "parent_id": 17,
+            "order": 0,
+            "parent_category": {
+              "id": 17,
+              "name": "Çocuk",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-3611f2f5-9a21-49b8-af9f-794c6d64db25.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-1b41dbea-189c-467e-b1f4-eb892d8a3d68.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-dae06726-a23b-4584-9cd6-552fb95614b9.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-c30fc661-cd53-4270-88d8-7badc4e1d015.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-df527d6a-bb9d-46f4-9a34-88897892a3d7.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aksesuar-1bd0aafe-a648-403e-926e-83a7bc07404a.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 20,
+            "name": "Ayakkabı",
+            "parent_id": 17,
+            "order": 0,
+            "parent_category": {
+              "id": 17,
+              "name": "Çocuk",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-10b198a1-fd91-49a1-8e2a-e97e3b8bbc40.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-9578e67a-4e5a-4e71-9abc-da642dbdc5bb.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-31b4cf41-924f-4c35-87d5-1c6313fd1087.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-3b440452-4f20-4161-abe1-13ce89ba8225.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-8222ba38-202f-4379-821b-36fc2c3f88de.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ayakkabi-3e072e89-77fb-4fcd-9e12-bf480484bca4.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 21,
+            "name": "Oyuncak",
+            "parent_id": 17,
+            "order": 0,
+            "parent_category": {
+              "id": 17,
+              "name": "Çocuk",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-c6b24c37-d6c5-4c28-bfd2-830538b5af0c.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-0f2f8b34-cc1e-48bd-b738-9fcc8a785eac.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-80348f6e-f083-47ee-bb52-d114914cffea.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-807829d3-6834-4152-b97f-5f6411485a34.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-1fdc6e8f-47d7-45a6-b5c6-08723fb245a6.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/oyuncak-8e085d6a-11a0-451e-99e7-d23949204963.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 22,
+            "name": "Diğer",
+            "parent_id": 17,
+            "order": 0,
+            "parent_category": {
+              "id": 17,
+              "name": "Çocuk",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-cf99ff52-963e-4ad8-ac89-05a3af914459.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-54dfd01f-44ac-4b45-bb79-b737b5f06020.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-b49bca42-aa21-46d8-b54f-b46d84798f16.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-33d45692-4f83-473f-b051-8f91b4d37853.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-de6a62e1-f510-40bd-923a-c65d66a82c88.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-4157afb5-8c33-4d52-afb1-10217fd686bd.jpg"
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Ev & Yaşam",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-8775df68-51ac-4dfd-aaa2-6d570790160e.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-a61cf73e-6aad-4f7b-9c1a-e4f86989f9c8.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-6e69e83a-dcc0-4b01-b66b-7cd50a6393a8.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-be9817f5-c571-4e41-8684-a9abac08c978.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-2441a6e0-de89-4a0d-ab0f-7362afb59a17.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ev-yasam-84fafb51-b1b3-402e-8a74-885d10d14e6f.jpg"
+          }
+        },
+        "children": [
+          {
+            "id": 24,
+            "name": "Mobilya",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-af2a6e39-9884-4863-ab15-bf9c5d7639e4.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-9e5d5884-92f0-4aca-9546-a67875a33d2c.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-01d71639-f360-47e0-8682-5f22a3177f3b.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-226fceac-f727-41af-9598-d9ad5e75f48f.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-5dcfff64-7784-4578-94ae-a532bef70ce7.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mobilya-f9280c49-3983-4180-ab11-45c8d6333223.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 25,
+            "name": "Mutfak",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-6a7a6e5e-3588-4f1e-867b-b606a4a60c43.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-1cf21b41-13ac-4e56-bf2c-81e046450431.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-b4551378-33b1-4af3-93ca-96e71f9380a7.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-2f15bc6c-0603-43d0-b4b8-31533b44ec35.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-d34ed543-41f7-4c93-8e69-babd0d9c0dcf.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/mutfak-715584c5-48ea-4037-b341-27993a6634dc.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 26,
+            "name": "Dekor",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-7b4e0eac-3730-499c-a343-36966adce842.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-b3711961-72b4-4104-9e40-0af2dd790e82.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-126851fd-0155-40b6-8c74-a8a423c1ddef.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-45d1a445-9c1f-4d4d-a5d6-e5b15d8ddaa3.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-04a7073f-cb18-49b8-aec5-db3f16417b4d.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekor-b1501899-9cc4-418c-9928-4082f8b4f59f.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 27,
+            "name": "Bahçe",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-403b1c19-face-494d-8b97-313ba821fcde.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-2d06446c-105c-404c-bc28-c2b282b36aa6.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-31c28084-e156-4163-9d3c-351379ade761.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-5c281618-040f-494c-b534-960b84452413.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-69b06eff-faa0-46c5-8312-74b12f0a2ca0.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/bahce-16b64819-0cbe-4d1d-8ebf-423986713c04.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 28,
+            "name": "Aydınlatma",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-55a3e8ea-3c3d-4b4b-84be-17d62861f4a6.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-303825b9-d983-440c-844d-9ac0e9efb1b6.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-61813f24-9441-4b1e-8052-b4ae6b392fb5.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-c9786c3a-6e4f-4821-a3b9-e7711328c036.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-3203e49e-bb54-43e5-84e4-76d2a8c6c3d9.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/aydinlatma-79b15055-3a98-4f15-8a3b-c77d4c4ad5bf.jpg"
+              }
+            },
+            "children": []
+          },
+          {
+            "id": 29,
+            "name": "Diğer",
+            "parent_id": 23,
+            "order": 0,
+            "parent_category": {
+              "id": 23,
+              "name": "Ev & Yaşam",
+              "parent_id": null,
+              "order": 0,
+              "parent_category": null
+            },
+            "logo": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-558ceda2-6a42-4882-a195-0d2bc3be3eb0.jpg",
+              "medium": {
+                "width": 256,
+                "height": 256,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-66b7811c-2132-46dc-9b27-5560663c4bf4.jpg"
+              },
+              "thumbnail": {
+                "width": 128,
+                "height": 128,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-213b5ea2-521c-45af-b07c-531b56f27f7c.jpg"
+              }
+            },
+            "cover": {
+              "width": 1080,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-fe5e2ed5-02c3-4cb2-8f05-5ea8ce539950.jpg",
+              "medium": {
+                "width": 540,
+                "height": 270,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-f4c88b62-ed23-4078-a2ba-2940b97e62ee.jpg"
+              },
+              "thumbnail": {
+                "width": 270,
+                "height": 135,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-15f7e8f6-04f6-4817-bac5-4588e6c5c60d.jpg"
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Teknoloji",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-41f42c0f-0a4f-402c-9011-d25a8d10bde3.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-802b30cf-0fac-4b09-8d1b-21898725152b.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-09eafc8e-83ea-4add-8336-ae88d4ac4d8d.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-4af4559f-2698-4a5a-b62c-049129c16b8d.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-4b19af07-194e-43ce-a6df-d37bd58366b5.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/teknoloji-613b9b7e-836d-4151-afb3-ab04423e0eb5.jpg"
+          }
+        },
+        "children": []
+      },
+      {
+        "id": 31,
+        "name": "Yiyecek",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-197587d1-8be3-4530-b31c-5b8d04d87d11.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-fac6c8e2-52b4-4a4a-a183-2cff4f66fac7.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-9a3500ef-bf02-45be-aded-f0fd500a1d6a.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-ba891104-2d4f-493c-8c6d-33efda0c9b95.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-8d27a6b3-d6c2-47c2-92c4-a539cf8c6d7a.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/yiyecek-89a5b77b-9c08-4cd4-bb9d-8910ff5ca956.jpg"
+          }
+        },
+        "children": []
+      },
+      {
+        "id": 32,
+        "name": "Eğlenceli",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-bd08fb9f-6e82-4dd6-912d-e56d6bbc6aae.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-ed2379bb-2159-4d73-a61f-cde44bf3db06.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-5eeabfd8-e6aa-45ae-84b7-80c8290e1378.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-f3b4c700-1466-4321-8a9e-9056d51a1e87.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-7c279f63-cc44-41b1-8cfa-cb88757ae1ea.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/eglenceli-23519b7c-16a8-4d5b-8b6e-b976ae98e213.jpg"
+          }
+        },
+        "children": []
+      },
+      {
+        "id": 33,
+        "name": "Evcil Hayvan Ürünleri",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-2c2f13cb-dddc-4cd6-9d88-d1bc730a4c71.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-81810875-52c9-4c26-aae3-5b7854db4a3b.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-c5279580-f1e9-4073-aa84-2988cf94f186.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-9c53d099-2d61-47ca-bb35-f990da84ae94.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-17b90455-82d3-425c-b01e-2bd9b52bef0a.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/evcil-hayvan-urunleri-f7d18da5-f36e-4794-8352-ec73546ed081.jpg"
+          }
+        },
+        "children": []
+      },
+      {
+        "id": 34,
+        "name": "Düğün & Nişan",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-088719e0-2358-48ef-a52c-9462b099d91e.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-dc019bcd-2871-4a43-81d1-e634ea4263af.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-5ff51151-c464-42cb-9c03-66f51cdfd9bd.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-9b896416-5a10-4c41-83f4-17edf676ba58.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-1507ce0e-15bc-48c7-ba6c-aef8f622ffae.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dugun-nisan-a0d81975-44cf-4210-90c8-53dae97fc35a.jpg"
+          }
+        },
+        "children": []
+      },
+      {
+        "id": 35,
+        "name": "Diğer",
+        "parent_id": null,
+        "order": 0,
+        "parent_category": null,
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-8f5f505e-7788-4668-ab4f-54d91649c4c1.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-48a7e386-495e-4e91-9b3b-4965988c9b67.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-42759f47-fa03-41aa-8e23-8211cd6513cb.jpg"
+          }
+        },
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-43c05291-1055-4593-ad74-61e4e3513370.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-2d62ceeb-2457-44c1-9def-9a3d54bbda48.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/diger-0b4ab2bb-cb47-45e3-8a96-874df3fce95f.jpg"
+          }
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "collections",
+    "title": "Koleksiyonlar",
+    "collections": [
+      {
+        "id": 4,
+        "title": "HEDİYE ÖNERİLERİ",
+        "definition": "EŞSİZ HEDİYELERLE MUTLU EDİN",
+        "start": "2018-09-27 10:38:45",
+        "end": null,
+        "share_url": "https://www.vitrinova.com/koleksiyon/4",
+        "cover": {
+          "width": 1200,
+          "height": 630,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-28c85f9b-fbc3-4cbc-8dfa-925127c4f66f.jpg",
+          "medium": {
+            "width": 600,
+            "height": 315,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-b655764f-2518-4cb3-b456-5e1a32715759.jpg"
+          },
+          "thumbnail": {
+            "width": 300,
+            "height": 157,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-65a9f76e-e68f-4ab0-92f9-e589afc8e121.jpg"
+          }
+        },
+        "logo": {
+          "width": 1024,
+          "height": 1024,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-ae3158b4-faeb-4c9e-bd4b-8a0cd159b297.jpg",
+          "medium": {
+            "width": 512,
+            "height": 512,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-0473a6c3-29d5-4e49-a851-46bfe46d2421.jpg"
+          },
+          "thumbnail": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sevgililer-gunu-5b9fd9fc-47e0-4563-9b5b-5e82579de64e.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "editor_shops",
+    "title": "Editör Seçimi Vitrinler",
+    "shops": [
+      {
+        "id": 111485,
+        "name": "Gulp design",
+        "slug": "gulp-design-2",
+        "definition": "Özgün illüstrasyon çizimi ile kupa tasarımları",
+        "name_updateable": false,
+        "vacation_mode": 0,
+        "created_at": "2017-10-28 19:29:38",
+        "shop_payment_id": 203,
+        "popular_products": [
+          {
+            "id": 115485,
+            "code": null,
+            "title": "Fly me to the moon",
+            "slug": "fly-me-to-the-moon",
+            "definition": "Hey! \n\nBirbirini tamamlayan ikili kupa takımı olarak üretilmiştir.\n\nÖzel tasarlanan kupalar, süblimasyon baskı tekniği ile üretilmektedir, uzun ömürlüdür. Ilık su ile elde yıkamanız tavsiye edilir.\n\nGüle güle kullanın!",
+            "old_price": 80,
+            "price": 70,
+            "stock": 5,
+            "max_installment": null,
+            "commission_rate": 20,
+            "cargo_time": 3,
+            "is_cargo_free": true,
+            "is_new": true,
+            "reject_reason": null,
+            "category_id": 25,
+            "view_count": 103,
+            "difference": "3 yıl önce eklendi.",
+            "is_editor_choice": true,
+            "comment_count": 0,
+            "is_owner": false,
+            "is_approved": true,
+            "is_active": true,
+            "share_url": "https://www.vitrinova.com/urun/115485/fly-me-to-the-moon",
+            "is_liked": false,
+            "like_count": 0,
+            "images": [
+              {
+                "width": 1006,
+                "height": 1000,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-4a04c92a-bf77-4fd3-bcce-56d5037adae6.jpg",
+                "medium": {
+                  "width": 503,
+                  "height": 500,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-ef63d4ab-5eac-457f-84a7-986eaaaea267.jpg"
+                },
+                "thumbnail": {
+                  "width": 251,
+                  "height": 250,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-0dfa2816-9b55-437d-9e28-6e54491bab66.jpg"
+                }
+              },
+              {
+                "width": 1080,
+                "height": 1080,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-24822690-c022-499d-8b1b-c4c74c9a42d9.jpg",
+                "medium": {
+                  "width": 540,
+                  "height": 540,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-67eba8ef-e05a-4000-928a-b5f125788550.jpg"
+                },
+                "thumbnail": {
+                  "width": 270,
+                  "height": 270,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-450f0216-e0a7-4cf6-8eaa-967254247bd0.jpg"
+                }
+              },
+              {
+                "width": 1080,
+                "height": 1080,
+                "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-cd54c683-51fa-4239-9c81-a524974e3c87.jpg",
+                "medium": {
+                  "width": 540,
+                  "height": 540,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-5eda6bcf-2191-4f94-9622-ff26fd2a1938.jpg"
+                },
+                "thumbnail": {
+                  "width": 270,
+                  "height": 270,
+                  "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-39d69a3f-c00a-478a-bfaf-cd04a4a64f13.jpg"
+                }
+              }
+            ],
+            "category": {
+              "id": 25,
+              "name": "Mutfak",
+              "parent_id": 23,
+              "order": 0,
+              "parent_category": {
+                "id": 23,
+                "name": "Ev & Yaşam",
+                "parent_id": null,
+                "order": 0,
+                "parent_category": null
+              }
+            }
+          }
+        ],
+        "product_count": 29,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 47,
+        "is_editor_choice": true,
+        "is_following": false,
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-8a7646fa-8461-41aa-825c-e723d91852b9.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-81548457-5bf1-4a8a-b823-9273a2f97457.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-7f6b282d-934f-478b-8543-ba0bf2ed1f7e.jpg"
+          }
+        },
+        "share_url": "https://www.vitrinova.com/v/gulp-design-2",
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-6c6b0888-2adc-4de0-9d81-dbccacd6bf3b.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-1f99ef9d-caba-49ff-b98b-2b76b675d8c7.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gulp-design-6f474245-577b-4549-9779-9630a4129c4a.jpg"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "type": "new_shops",
+    "title": "En Yeni Vitrinler",
+    "shops": [
+      {
+        "id": 112058,
+        "name": "Ahsapevi",
+        "slug": "ahsapevi",
+        "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+        "name_updateable": true,
+        "vacation_mode": 0,
+        "created_at": "2019-06-20 13:41:58",
+        "shop_payment_id": 501,
+        "product_count": 5,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 0,
+        "is_editor_choice": false,
+        "is_following": false,
+        "cover": {
+          "width": 1080,
+          "height": 540,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+          "medium": {
+            "width": 540,
+            "height": 270,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+          },
+          "thumbnail": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+          }
+        },
+        "share_url": "https://www.vitrinova.com/v/ahsapevi",
+        "logo": null
+      },
+      {
+        "id": 112040,
+        "name": "Beşik Korumalığı",
+        "slug": "besik-korumaligi",
+        "definition": "Bebek odalarina özgü beşik koruyucu örgüler ve yastıklar",
+        "name_updateable": true,
+        "vacation_mode": 0,
+        "created_at": "2019-02-15 00:41:04",
+        "shop_payment_id": 494,
+        "product_count": 3,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 1,
+        "is_editor_choice": false,
+        "is_following": false,
+        "cover": null,
+        "share_url": "https://www.vitrinova.com/v/besik-korumaligi",
+        "logo": null
+      },
+      {
+        "id": 112034,
+        "name": "amigurumi",
+        "slug": "amigurumi-11",
+        "definition": "El işi çocuklarınız için doğal oyuncaklar ?",
+        "name_updateable": true,
+        "vacation_mode": 0,
+        "created_at": "2019-01-25 03:22:40",
+        "shop_payment_id": 490,
+        "product_count": 5,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 1,
+        "is_editor_choice": false,
+        "is_following": false,
+        "cover": {
+          "width": 888,
+          "height": 444,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-b96a4468-5223-4502-a9ae-81a3ecca68ef.jpg",
+          "medium": {
+            "width": 444,
+            "height": 222,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-4996ff51-536d-4ec7-a58b-2416810be347.jpg"
+          },
+          "thumbnail": {
+            "width": 222,
+            "height": 111,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-eed26060-98bd-4a3b-9ca3-88b06cabdc8f.jpg"
+          }
+        },
+        "share_url": "https://www.vitrinova.com/v/amigurumi-11",
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-ba26eaca-452a-4b5e-b0b5-b5e0c520dca0.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-426576db-c2b7-4781-839c-4fe96ca1a9b3.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/amigurumi-254c6fbd-7a52-4556-9e0a-731f39120d87.jpg"
+          }
+        }
+      },
+      {
+        "id": 112028,
+        "name": "Pinokyonunkedisi",
+        "slug": "pinokyonunkedisi",
+        "definition": "Evdeki küçük atolyemde hazırladığım sergilerde ve instagramda satış yaptığım ürünlerim artık burada?",
+        "name_updateable": true,
+        "vacation_mode": 0,
+        "created_at": "2019-01-08 15:27:56",
+        "shop_payment_id": 488,
+        "product_count": 2,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 1,
+        "is_editor_choice": false,
+        "is_following": false,
+        "cover": {
+          "width": 540,
+          "height": 270,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/pinokyonunkedisi-10d56190-6c2d-4f0a-b118-980711a9ae8a.jpg",
+          "medium": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/pinokyonunkedisi-65a9e087-028f-422c-bcb8-d87922936aa2.jpg"
+          },
+          "thumbnail": {
+            "width": 135,
+            "height": 67,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/pinokyonunkedisi-82d74dab-501c-4457-a628-11f44d6235da.jpg"
+          }
+        },
+        "share_url": "https://www.vitrinova.com/v/pinokyonunkedisi",
+        "logo": null
+      },
+      {
+        "id": 112027,
+        "name": "ALATAKIFİLİZ",
+        "slug": "alatakifiliz",
+        "definition": "Doğal Taş küpeler kolyeler yüzükler tasarım takılar rudraksha tohumu otantik bileklikler.",
+        "name_updateable": true,
+        "vacation_mode": 0,
+        "created_at": "2019-01-04 20:16:57",
+        "shop_payment_id": 486,
+        "product_count": 1,
+        "shop_rate": 0,
+        "comment_count": 0,
+        "follower_count": 0,
+        "is_editor_choice": false,
+        "is_following": false,
+        "cover": {
+          "width": 540,
+          "height": 270,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-f67cf972-c80d-4215-bb8a-a24f95b50d40.jpg",
+          "medium": {
+            "width": 270,
+            "height": 135,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-58e5cf26-27a4-438e-b30d-3f72cb51ffc7.jpg"
+          },
+          "thumbnail": {
+            "width": 135,
+            "height": 67,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-b81053ec-db14-46bb-bba3-d53cf7594b38.jpg"
+          }
+        },
+        "share_url": "https://www.vitrinova.com/v/alatakifiliz",
+        "logo": {
+          "width": 512,
+          "height": 512,
+          "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-69948c25-8d08-4c67-a11e-099cbbe5ec88.jpg",
+          "medium": {
+            "width": 256,
+            "height": 256,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-12b59f6b-f48c-4e3b-b54b-dc7515633bc8.jpg"
+          },
+          "thumbnail": {
+            "width": 128,
+            "height": 128,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/alatakifiliz-0b070522-dbba-45fb-8141-ff73abab11d4.jpg"
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="product"
+            type="com.seyfettin.vitrinovaapplication.data.remote.model.new_product.Product" />
+    </data>
+
+    <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="150dp"
+        android:layout_margin="5dp"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:scaleType="centerCrop"
+                app:imageUrl="@{product.images.get(0).thumbnail.url}" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/image"
+                android:layout_marginTop="5dp"
+                android:lines="1"
+                android:paddingStart="10dp"
+                android:paddingEnd="0dp"
+                android:text="@{product.title}"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/shop_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_marginTop="5dp"
+                android:lines="1"
+                android:paddingStart="10dp"
+                android:paddingEnd="0dp"
+                android:text="@{product.shop.name}"
+                android:textColor="@color/text_light_gray"
+                android:textSize="10sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/shop_name"
+                android:layout_marginTop="5dp"
+                android:background="@color/light_gray"
+                android:orientation="horizontal"
+                android:paddingStart="10dp"
+                android:paddingEnd="0dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:lines="1"
+                    android:text="@{product.priceAndCurrency}"
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="5dp"
+                    android:lines="1"
+                    android:text="@{product.oldPriceAndCurrency}"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp"
+                    app:strikeThrough="@{true}" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</layout>

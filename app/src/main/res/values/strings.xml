@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VitrinovaApplication</string>
+
+    <string name="networkError">Bir wifi veya hücresel veri ağına bağlı değilsiniz. Lütfen bağlanın ve tekrar deneyin</string>
+    <string name="unknownError">Bir şeyler yanlış gitti!</string>
+    <string name="requestTimeOutError">İsteğinizi zamanında yakalayamadık. Lütfen tekrar deneyin.</string>
+    <string name="responseMalformedJson">Bir hatayla karşılaştık. Daha sonra tekrar deneyin.</string>
+    <string name="all">TÜMÜ</string>
+</resources>
